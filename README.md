@@ -78,6 +78,10 @@ What are the defining characteristics of each decade’s music (1980–2020)? Ho
    ```bash
    git clone https://github.com/yourusername/tunetrends.git
 
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Run the final_project.ipynb notebook
+
 ## Contributors
 Yelaman Moladagali, Ryan Ye, Noelle Lin.
 
